@@ -1,0 +1,49 @@
+userID,genre,movie,rating
+1,Action,Avengers,5
+1,Action,Iron Man,4
+1,Action,Black Panther,4.5
+2,Action,Avengers,4.5
+2,Action,Iron Man,5
+2,Action,Black Panther,4
+3,Action,Avengers,4
+3,Action,Iron Man,4.5
+3,Action,Black Panther,5
+4,Action,Avengers,5
+4,Action,Iron Man,4
+4,Action,Black Panther,4.5
+
+1,Drama,The Godfather,5
+1,Drama,Forrest Gump,4.5
+2,Drama,The Godfather,4.5
+2,Drama,Forrest Gump,5
+3,Drama,The Godfather,5
+3,Drama,Forrest Gump,4
+4,Drama,The Godfather,4.5
+4,Drama,Forrest Gump,4
+
+1,Comedy,The Mask,4
+1,Comedy,Home Alone,4.5
+2,Comedy,The Mask,4.5
+2,Comedy,Home Alone,5
+3,Comedy,The Mask,5
+3,Comedy,Home Alone,4
+4,Comedy,The Mask,4
+4,Comedy,Home Alone,4.5
+
+1,Horror,The Conjuring,4.5
+1,Horror,It,4
+2,Horror,The Conjuring,5
+2,Horror,It,4.5
+3,Horror,The Conjuring,4
+3,Horror,It,5
+4,Horror,The Conjuring,5
+4,Horror,It,4.5
+
+1,Fantasy,Harry Potter,5
+1,Fantasy,Lord of the Rings,4.5
+2,Fantasy,Harry Potter,4.5
+2,Fantasy,Lord of the Rings,5
+3,Fantasy,Harry Potter,5
+3,Fantasy,Lord of the Rings,4
+4,Fantasy,Harry Potter,4.5
+4,Fantasy,Lord of the Rings,4
