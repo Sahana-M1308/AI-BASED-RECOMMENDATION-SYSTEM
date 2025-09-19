@@ -27,3 +27,13 @@ Dataset Handling – CSV File A major component of this project is the Recommend
 Applications of the Project The Task 4 program is a simplified version of real-world recommendation engines such as those used by Netflix, Amazon Prime, or IMDb. Its applications include: Movie Recommendation: Suggests the highest-rated movie for a given genre. Educational Use: Demonstrates Java file handling, collection frameworks, and aggregation techniques for beginners. Data Processing Prototype: Can be extended to handle larger datasets, add personalized recommendations, or include collaborative filtering. Practical Utility: Useful for students and developers who want to understand how ratings data can be transformed into meaningful insights.
 
 OUTPUT:
+
+<img width="834" height="179" alt="Image" src="https://github.com/user-attachments/assets/1079c4b3-4e4d-465e-be92-7c7e6824ade3" />
+
+<img width="862" height="181" alt="Image" src="https://github.com/user-attachments/assets/196b152b-eeb3-41ac-9d08-9d05b974dcb1" />
+
+<img width="830" height="215" alt="Image" src="https://github.com/user-attachments/assets/f2e55a79-4cf7-4d72-a03f-6c7e85c09086" />
+
+<img width="821" height="184" alt="Image" src="https://github.com/user-attachments/assets/6c12daf2-5a98-4748-a0af-7f115c964813" />
+
+<img width="834" height="179" alt="Image" src="https://github.com/user-attachments/assets/fc4939a4-6393-4b97-8d7e-52a08105b522" />
